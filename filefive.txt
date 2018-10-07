@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Earlier it was file five
-
-=======
-This is madhu_branch file five
->>>>>>> 1eb59f578d8ba391be87737b40daa3f6d4b7a19a
+This is file five
